@@ -1,0 +1,11 @@
+{
+  "name": "temp-yarn-v2-with-workspace-typescript-cra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Huy Nguyen <me@huy.dev>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
